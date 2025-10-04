@@ -1,0 +1,56 @@
+/* navbar_out.php styles */
+
+.logoImageNavbar {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+/* home_view.php styles */
+.homeCompanyContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.homeCompanySlogan {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.CompanyImage {
+    width: 700px;
+    height: 500px;
+}
+
+/* login_view.php styles*/
+
+.login_viewForm {
+    background-color: rgb(163, 163, 163);
+    width: 100%; 
+    max-width: 500px;
+}
+
+.loginMain {
+    background-image: url('../img/backgroundCinema.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/* register_view styles */
+
+.register_viewForm {
+    background-color: rgb(163, 163, 163);
+    width: 100%; 
+    max-width: 500px;
+}
+
+.registerMain {
+    background-image: url('../img/backgroundCinema.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/* App_view styles */
+
